@@ -3,35 +3,35 @@ Diabetes Detection using comparative analysis
 
 Dataset : Imported from Kaggle Website (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?resource=download)
 
-##Techniques Used:
+## Techniques Used:
 1. Data Cleaning 
 2. Data Visualization
 3. Data Splitting
 4. Training & Testing the models
 
-##Algorithms Used:
+## Algorithms Used:
 1. Long Short Term Memory (LSTM)
 2. Support Vector Machine (SVM)
 3. K-Nearest Neighbor (KNN)
 4. Logistic Regression
 
-##Evaluation Metrics Used:
+## Evaluation Metrics Used:
 1. Accuracy
 2. RMSE
 3. Confusion Matrix
 
-##Packages & Tools Required:
-Pandas 
-Matplotlib
-Seaborn
-Scikit Learn
-Jupyter Notebook
+## Packages & Tools Required:
+1. Pandas 
+2. Matplotlib
+3. Seaborn
+4. Scikit Learn
+5. Jupyter Notebook
 
-##Package Installation:
-pip install numpy
-pip install pandas
-pip install seaborn
-pip install scikit-learn
-pip install matplotlib
+## Package Installation:
+1. pip install numpy
+2. pip install pandas
+3. pip install seaborn
+4. pip install scikit-learn
+5. pip install matplotlib
 
 Jupyter Notebook Installation Guide: https://jupyter.org/install
